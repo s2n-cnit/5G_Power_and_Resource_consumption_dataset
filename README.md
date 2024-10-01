@@ -6,3 +6,7 @@ Short description: The data were collected in a Prometheus-like data format: eac
 2. Server and client running on different K8s nodes.
 3. Server running inside the K8s cluster and client outside.
 4. Server running inside the K8s cluster and client outside, with client activating/deactivating every hour.
+
+
+# Paper refrence
+M. Akbari, R. Bolla, R. Bruschi, F. Davoli, C. Lombardo and B. Siccardi, "A Monitoring, Observability and Analytics Framework to Improve the Sustainability of B5G Technologies," 2024 IEEE International Conference on Communications Workshops (ICC Workshops), Denver, CO, USA, 2024, pp. 969-975, doi: 10.1109/ICCWorkshops59551.2024.10615948.
